@@ -10,4 +10,11 @@ export const ButtonSize = {
   medium: "text-sm px-4 py-2",
   large: "text-base px-6 py-3",
   xlarge: "text-lg px-8 py-4",
+  full: "text-xl w-full py-2",
+};
+
+export const ButtonType = {
+  submit: "submit",
+  button: "button",
+  reset: "reset",
 };
